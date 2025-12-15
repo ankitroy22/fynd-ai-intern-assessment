@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-groq
+langchain-openai
+pandas
+numpy 
+scikit-learn
+ipykernel
